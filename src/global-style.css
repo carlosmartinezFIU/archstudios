@@ -1268,6 +1268,17 @@ html, body{
     .connect_arrow_container{
         left: 520px;
     }
+
+    .mobile_nav_display{
+        width: 343px;
+        height: 235px;
+        background-color: #eeeff4;
+        position: relative;
+        top: 179px;
+        height: 244px;
+        z-index: 1;
+    }
+
 }
 
 @media screen and (max-width: 550px) {
